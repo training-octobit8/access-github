@@ -1,3 +1,5 @@
 Sample file
 
 Added changes
+
+New changes
